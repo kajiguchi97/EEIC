@@ -1,6 +1,6 @@
 This is a repository for programming classes of my college course (eeic).
 ## Programming
-C programs
+### C programs
 ### 0926
 * abc
 * cube_root
@@ -27,7 +27,7 @@ C programs
 ### 1031
 * diff_monomial
 
-Python programs
+### Python programs
 ### 1107
 * Legendre_polynomial
 * pi_from_prime_numbers
@@ -48,5 +48,6 @@ Python programs
 * chaos
 
 ## Software
+
 
 ## information engineering experiment
